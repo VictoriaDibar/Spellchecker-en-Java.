@@ -1,8 +1,20 @@
-# Default ignored files
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Compilados
+out/
+
+# Archivos del sistema
+.DS_Store
+
+# IntelliJ extra
 /shelf/
 /workspace.xml
-# Editor-based HTTP Client requests
 /httpRequests/
-# Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
