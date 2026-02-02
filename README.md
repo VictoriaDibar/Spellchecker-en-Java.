@@ -1,4 +1,4 @@
-# Spellchecker-en-Java.
+# Spellchecker-en-Java
 
 Corrector ortográfico simple desarrollado en Java como proyecto final del Taller de Programación Java (UNICEN - Facultad de Exactas).
 
